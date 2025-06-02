@@ -1,7 +1,13 @@
-# Blossom Theme for [App/Service/etc... Name]
+# Blossom Theme for Blender
 
 ## Preview <!---Do not chang headers (Required for WebBuilder)-->
-> Add Screenshots of the theme
+![](./screenshot01.png)
+![](./screenshot02.png)
+![](./screenshot03.png)
 
 ## Installation <!---Do not chang headers (Required for WebBuilder)-->
-> Add the steps to install the theme.
+```
+Edit > Preferences > Themes > Install 
+Select .xml file > press "Install Theme"
+```
+![](./screenshot04.png)
