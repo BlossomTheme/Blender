@@ -31,3 +31,5 @@
 
 That's it... Enjoy!
 
+## NOTE
+This theme is licensed under the MIT license for GitHub distribution, as it aligns with the standard licensing used by [@BlossomTheme](https://github.com/BlossomTheme), and under the GPL-3.0-or-later license for distribution through the [Blender Extension Store](https://extensions.blender.org/approval-queue/blossom-theme/), to comply with Blender’s own GPL licensing requirements.
